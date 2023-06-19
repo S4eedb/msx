@@ -4,7 +4,7 @@
         {
             "icon": "movie",
             "label": "Videos",
-            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
+            "data": "https://s4eedb.github.io/msx/data/base/videos.json"
         }
     ]
 }
